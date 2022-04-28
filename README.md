@@ -1,4 +1,5 @@
-# vue-pinia
+# vue, pinia, axios and vue-router initial app with basic axios request and global variable setup 
+https://blog.logrocket.com/consume-apis-with-vuex-pinia-axios/
 
 ## Project setup
 ```
@@ -22,3 +23,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+# vue-pinia
